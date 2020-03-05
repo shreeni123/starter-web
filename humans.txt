@@ -1,6 +1,4 @@
-BC
-Chutya
-This one is made on branch "merging""
+
 
 =======
 
